@@ -3,7 +3,7 @@
 학습이 완료된 항목은 체크박스로 표시됩니다.
 
 ## JavaScript
-- [x] Ajax [바로가기](https://github.com/wlstmd1004v/document/javascript/Ajax.md)
+- [x] Ajax [바로가기](https://https://github.com/wlstmd1004v/document/blob/main/javascript/Ajax.md)
 - [x] Arrow [바로가기](https://github.com/simseonbeom/lion-javascript/blob/01.core/client/chapter/core/02.variables.js)
 - [x] BOM [바로가기](https://github.com/simseonbeom/lion-javascript/blob/01.core/client/chapter/core/03.strictMode.js)
 - [x] Class [바로가기](https://github.com/simseonbeom/lion-javascript/blob/01.core/client/chapter/core/04.globalThis.js)
